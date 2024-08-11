@@ -1,6 +1,6 @@
 ## Project README ##
 This project was given by [Prodigy InfoTech](https://prodigyinfotech.dev/) as a web development Task 1.<br/>
- click the [demo] 127.0.0.1:5500/task1.html
+ click the [demo](http://127.0.0.1:5500/task1.html)
 to see result
 
 ## Description
