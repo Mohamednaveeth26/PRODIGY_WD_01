@@ -13,4 +13,4 @@ Languages used: HTML, CSS, JavaScript
 ```style.css```: Directory containing CSS stylesheets.<br/>
 ```scripts.js```: Directory containing JavaScript files.
 
-https://github.com/user-attachments/assets/ee806523-8d76-478c-b829-a0e7241c0a83
+https://github.com/user-attachments/assets/4b9951c2-525d-4fef-bb28-00dc62e4ec9a
