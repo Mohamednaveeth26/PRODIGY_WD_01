@@ -1,8 +1,6 @@
 ## Project README ##
 This project was given by [Prodigy InfoTech](https://prodigyinfotech.dev/) as a web development Task 1.<br/>
- click the [demo](http://127.0.0.1:5500/task1.html)
-to see result
-
+ 
 ## Description
 This project is html website for home applainces shop.It contain Home,about,product and contact.You can click any one of the navigation menu and it show the result with related informations.you can able to scroll the page to see the content.
 
